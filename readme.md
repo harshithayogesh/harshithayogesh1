@@ -1,1 +1,2 @@
-# first glug sesssion
+# first glug session
+# as we do
